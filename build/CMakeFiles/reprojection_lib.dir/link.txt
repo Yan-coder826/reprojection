@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreprojection_lib.a CMakeFiles/reprojection_lib.dir/src/reprojection.cpp.o
+/usr/bin/ranlib libreprojection_lib.a
