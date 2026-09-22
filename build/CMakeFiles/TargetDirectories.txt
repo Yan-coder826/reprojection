@@ -1,4 +1,0 @@
-/home/Yjy/reprojection/build/CMakeFiles/reprojection_lib.dir
-/home/Yjy/reprojection/build/CMakeFiles/main.dir
-/home/Yjy/reprojection/build/CMakeFiles/edit_cache.dir
-/home/Yjy/reprojection/build/CMakeFiles/rebuild_cache.dir

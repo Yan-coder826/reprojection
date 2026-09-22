@@ -8,7 +8,8 @@ std::optional<Eigen::Vector2d> projectPoint(
 ) {
     Eigen::Vector3d Pc = R * Pw + t;
 
-    if (Pc.z() <= 0) {
+    if (Pc.z() <= 0.1
+) {
         return std::nullopt;
     }
 
